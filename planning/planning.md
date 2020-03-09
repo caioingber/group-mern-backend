@@ -9,6 +9,43 @@ Recipe Roledex is an application for users to store and share recipes. Our MVP p
 We hope to implement (for now) 2 basic data models, one for Users and another for recipes
 
 ```Javascript
+
+const Ingredients = {
+    name: String,
+    measurementValue: Number,
+    measurementType: String
+}
+
+//e.g
+
+let ingredes = {
+    name: "Chocolate Chips",
+    measurementValue: 1,
+    measurementType: "cup"
+}
+
+const Recipe = {
+    author: String, // User firstName + lastName
+    name: String,
+    cuisine: String,
+    cooktime: Number,
+    ingredients: [],
+    Steps: [String],
+    image: String
+}
+
+//e.g
+
+let chocoMuffins = {
+    author: person,
+    name: "Chocolate Chip Muffins",
+    cuisine: "American",
+    cooktime: 120,
+    ingredients: [ingredes]
+    steps: ['preheat oven to 450 degrees F', 'bake muffins for 20 min']
+    image: "https://images.media-allrecipes.com/userphotos/720x405/4470819.jpg"
+}
+
 const User = new Schema ({
     firstName: String,
     lastName: String,
@@ -19,15 +56,18 @@ const User = new Schema ({
     recipes: []
 })
 
-const Recipe = {
-    author: String, // User firstName + lastName
-    name: String,
-    cuisine: String,
-    cooktime: Number,
-    ingredients: [String],
-    Steps: [String],
-    image: String
+let person = {
+    firstName: "Jane",
+    lastName: "Apple",
+    username: 'japple22',
+    password: 'password123',
+    email: 'japple1@gmail.com',
+    picture: 'http://www.shutterstock.com/picture.jpg',
+    recipes: [chocoMuffins]
 }
+
+
+
 ```
 
 ## Git Workflow
