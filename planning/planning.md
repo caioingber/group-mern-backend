@@ -18,7 +18,7 @@ const Ingredients = {
 
 //e.g
 
-let ingredes = {
+let ingredients = {
     name: "Chocolate Chips",
     measurementValue: 1,
     measurementType: "cup"
@@ -56,6 +56,22 @@ const User = new Schema ({
     recipes: []
 })
 
+<<<<<<< HEAD
+const Ingredients = {
+    ingredient: String,
+    amount: Number,
+    measurementType: String
+}
+
+const Recipe = {
+    author: String, // User firstName + lastName
+    name: String,
+    cuisine: String,
+    cooktime: Number,
+    ingredients: [Ingredients],
+    Steps: [String],
+    image: String
+=======
 let person = {
     firstName: "Jane",
     lastName: "Apple",
@@ -64,6 +80,7 @@ let person = {
     email: 'japple1@gmail.com',
     picture: 'http://www.shutterstock.com/picture.jpg',
     recipes: [chocoMuffins]
+>>>>>>> b9d3d147c3c088e08351bf0016dc741e4d14d98c
 }
 
 
