@@ -19,12 +19,18 @@ const User = new Schema ({
     recipes: []
 })
 
+const Ingredients = {
+    ingredient: String,
+    amount: Number,
+    measurementType: String
+}
+
 const Recipe = {
     author: String, // User firstName + lastName
     name: String,
     cuisine: String,
     cooktime: Number,
-    ingredients: [String],
+    ingredients: [Ingredients],
     Steps: [String],
     image: String
 }
