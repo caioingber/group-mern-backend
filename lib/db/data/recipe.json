@@ -1,0 +1,25 @@
+{
+  "author": "Caio",
+  "name": "Chocolate Chip Cookies",
+  "cuisine": "Baking",
+  "cooktime": 120,
+  "ingredients": [
+    {
+      "name": "flour",
+      "measurementValue": 2.25,
+      "measurementType": "cups"
+    },
+    { "name": "baking soda", "measurementValue": 1, "measurementType": "tsp" },
+    {
+      "name": "salt",
+      "measurementValue": 1,
+      "measurementType": "tsp"
+    }
+  ],
+  "Steps": [
+    "preheat to 375",
+    "combine dry ingredients in small bowl",
+    "bake for 9 minutes"
+  ],
+  "image": null
+}
