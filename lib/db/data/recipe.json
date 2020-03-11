@@ -1,53 +1,108 @@
 [
   {
+    "author": "Rachel",
+    "name": "Lasagna",
+    "cuisine": "Italian",
+    "course": "Entree",
+    "cooktime": "60 minutes",
+    "ingredients": [
+      {
+        "name": "Lasagna Noodles",
+        "measurementValue": "1/2",
+        "measurementType": "box"
+      },
+      {
+        "name": "Italian sausage or ground beef",
+        "measurementValue": "1",
+        "measurementType": "pound"
+      },
+      {
+        "name": "marinara sauce",
+        "measurementValue": "2",
+        "measurementType": "jars"
+      },
+      {
+        "name": "ricotta cheese",
+        "measurementValue": "15",
+        "measurementType": "oz"
+      },
+      {
+        "name": "shredded mozzarella cheese",
+        "measurementValue": "4",
+        "measurementType": "cups"
+      },
+      {
+        "name": "eggs, lightly beaten",
+        "measurementValue": "2",
+        "measurementType": null
+      }
+    ],
+    "Steps": [
+      "Preheat oven to 375° F.",
+      "Cook lasagna noodles according to package instructions; drain and separate.",
+      "In a large saucepan, combine cooked meat and 1 ½ jars sauce, simmer 5 minutes.",
+      "In a large bowl, combine Ricotta cheese, 3 ½ cups mozzarella cheese, Parmigiano cheese and eggs.",
+      "Grease a 13 x 9 inch baking dish with cooking spray.",
+      "Spread ¾ cup Barilla sauce over the bottom of the baking dish.",
+      "Place 3-4 lasagne sheets on the bottom, slightly overlapping.",
+      "Spread half of the cheese mixture over lasagne and cover with ½ of the meat sauce.",
+      "Repeat for 2 more layers.",
+      "Cover last layer with remaining lasagne sheets and remaining Barilla sauce.",
+      "Sprinkle with remaining mozzarella cheese.",
+      "Cover with foil and bake for 30 minutes. Remove foil and bake additional 10 minutes. Let stand 10 minutes before serving."
+    ],
+    "image": "https://hips.hearstapps.com/vidthumb/images/180820-bookazine-delish-01280-1536610916.jpg?crop=1xw:1xh;center,top&resize=768:*"
+  },
+  {
     "author": "Caio",
     "name": "Chocolate Chip Cookies",
     "cuisine": "Baking",
+    "course": "dessert",
     "cooktime": "120 minutes",
     "ingredients": [
       {
         "name": "flour",
-        "measurementValue": 2.25,
+        "measurementValue": "2 and 1/4",
         "measurementType": "cups"
       },
       {
         "name": "baking soda",
-        "measurementValue": 1,
+        "measurementValue": "1",
         "measurementType": "tsp"
       },
       {
         "name": "salt",
-        "measurementValue": 1,
+        "measurementValue": "1",
         "measurementType": "tsp"
       },
       {
         "name": "vanilla extract",
-        "measurementValue": 1,
+        "measurementValue": "1",
         "measurementType": "tsp"
       },
       {
         "name": "butter, softened",
-        "measurementValue": 1,
+        "measurementValue": "1",
         "measurementType": "cup"
       },
       {
         "name": "granulated sugar",
-        "measurementValue": 0.75,
+        "measurementValue": "3/4",
         "measurementType": "cup"
       },
       {
         "name": "packed brown sugar",
-        "measurementValue": 0.75,
+        "measurementValue": "3/4",
         "measurementType": "cup"
       },
       {
         "name": "large eggs",
-        "measurementValue": 2,
+        "measurementValue": "2",
         "measurementType": null
       },
       {
         "name": "chocolate chips",
-        "measurementValue": 2,
+        "measurementValue": "2",
         "measurementType": "cup"
       }
     ],
