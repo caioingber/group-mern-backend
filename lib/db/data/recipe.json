@@ -37,7 +37,7 @@
         "measurementType": null
       }
     ],
-    "Steps": [
+    "steps": [
       "Preheat oven to 375° F.",
       "Cook lasagna noodles according to package instructions; drain and separate.",
       "In a large saucepan, combine cooked meat and 1 ½ jars sauce, simmer 5 minutes.",
@@ -106,7 +106,7 @@
         "measurementType": "cup"
       }
     ],
-    "Steps": [
+    "steps": [
       "preheat to 375",
       "Combine flour, baking soda and salt in small bowl.",
       "Beat butter, granulated sugar, brown sugar and vanilla extract in large mixer bowl until creamy.",
@@ -168,7 +168,7 @@
         "name": "all purpose flour",
         "measurementValue": "3 1/4",
         "measurementType": "cup"
-      }, 
+      },
       {
         "name": "FLEISCHMANN'S® Pizza Crust Yeast or RapidRise® Yeast",
         "measurementValue": "2",
@@ -215,7 +215,7 @@
         "measurementType": "cup"
       }
     ],
-    "Steps": [
+    "steps": [
       "For sauce: Combine all sauce ingredients with 1/2 cup water in a medium bowl; set aside for flavors to develop while making crust. Freeze remaining paste .",
       "For crusts: Combine 2 cups of flour with the dry yeast, sugar and salt. Add the water and oil and mix until well blended (about 1 minute). Gradually add enough remaining flour slowly, until a soft, sticky dough ball is formed",
       "Knead for about 4 minutes, on a floured surface, until dough is smooth and elastic. Add more flour, if needed. (If using RapidRise(R) Yeast, let dough rest, covered, for 10 minutes.).",
@@ -283,7 +283,7 @@
         "measurementType": "tbsp"
       }
     ],
-    "Steps": [
+    "steps": [
       "In a small bowl, combine 1 cup/200 mL warm water with yeast and set aside.",
       "In a large bowl or stand mixer, mix together flour with milk, oil, egg, sugar, salt and yeast-water mixture. Knead by hand or with a dough hook until dough forms a smooth, elastic dough. You may need up to 1 cup/240 mL additional warm water.",
       "Cover the bowl with greased plastic wrap and let rise in a warm place for 2 hours. Punch down dough and divide into three pieces. Cover with greased plastic wrap and let rest 15 minutes before shaping.",
