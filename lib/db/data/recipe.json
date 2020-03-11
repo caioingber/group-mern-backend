@@ -224,5 +224,74 @@
       "Bake for 18 to 20 minutes until crusts are browned and cheese is bubbly. For best results, rotate pizza pans between top and bottom oven racks halfway through baking."
     ],
     "image": "https://images.media-allrecipes.com/userphotos/720x405/5164659.jpg"
+  },
+  {
+    "author": "Levani",
+    "name": "Khachapuri",
+    "cuisine": "Georgian",
+    "course": "Entree",
+    "cooktime": "35 minutes",
+    "ingredients": [
+      {
+        "name": "warm water",
+        "measurementValue": "2",
+        "measurementType": "cup"
+      },
+      {
+        "name": "active dry yeast",
+        "measurementValue": "1",
+        "measurementType": "tbsp"
+      },
+      {
+        "name": "all purpose flour",
+        "measurementValue": "2.5",
+        "measurementType": "pounds"
+      },
+      {
+        "name": "warm milk",
+        "measurementValue": "1",
+        "measurementType": "cup"
+      },
+      {
+        "name": "oil",
+        "measurementValue": "1.7",
+        "measurementType": "oz"
+      },
+      {
+        "name": "large egg",
+        "measurementValue": "4",
+        "measurementType": null
+      },
+      {
+        "name": "sugar",
+        "measurementValue": "1",
+        "measurementType": "tsp"
+      },
+      {
+        "name": "salt",
+        "measurementValue": "1",
+        "measurementType": "tsp"
+      },
+      {
+        "name": "sulguni cheese",
+        "measurementValue": "7",
+        "measurementType": "oz"
+      },
+      {
+        "name": "butter",
+        "measurementValue": "1",
+        "measurementType": "tbsp"
+      }
+    ],
+    "Steps": [
+      "In a small bowl, combine 1 cup/200 mL warm water with yeast and set aside.",
+      "In a large bowl or stand mixer, mix together flour with milk, oil, egg, sugar, salt and yeast-water mixture. Knead by hand or with a dough hook until dough forms a smooth, elastic dough. You may need up to 1 cup/240 mL additional warm water.",
+      "Cover the bowl with greased plastic wrap and let rise in a warm place for 2 hours. Punch down dough and divide into three pieces. Cover with greased plastic wrap and let rest 15 minutes before shaping.",
+      "In a medium bowl, combine the grated cheese, 1 egg, and butter, if using. Separate one egg, retaining the egg yolk and saving the white for another use. Fork blend the egg yolk and set aside. This will be used to glaze the dough later.",
+      "Heat the oven to 400 F. Roll each of the dough balls and form into a boat shape. Place equal portions of cheese filling in the center of each of the 3 dough boats. Fold the sides and ends of the dough as shown in my picture.",
+      "Place the khachapuri on a parchment-lined rimmed baking sheet (to catch any butter or melting cheese) and bake for 12 minutes. Take the khachapuri out of the oven and brush the dough (not the cheese) with reserved beaten egg yolk. Crack the last egg in the center of the cheese. Return to the oven and bake for 3 minutes or until the yolk is still wobbly and the white hasn't totally set.",
+      "Serve immediately with a large pat of butter. The butter and egg are mixed together with a knife and fork and eaten together with little pieces of the bread part of the khachapuri."
+    ],
+    "image": "https://3ner1e34iilsjdn1qohanunu-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/adjaruli_7.jpg"
   }
 ]
