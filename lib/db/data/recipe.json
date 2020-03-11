@@ -1,0 +1,297 @@
+[
+  {
+    "author": "Rachel",
+    "name": "Lasagna",
+    "cuisine": "Italian",
+    "course": "Entree",
+    "cooktime": "60 minutes",
+    "ingredients": [
+      {
+        "name": "Lasagna Noodles",
+        "measurementValue": "1/2",
+        "measurementType": "box"
+      },
+      {
+        "name": "Italian sausage or ground beef",
+        "measurementValue": "1",
+        "measurementType": "pound"
+      },
+      {
+        "name": "marinara sauce (homemade is fine)",
+        "measurementValue": "2",
+        "measurementType": "jars"
+      },
+      {
+        "name": "ricotta cheese",
+        "measurementValue": "15",
+        "measurementType": "oz"
+      },
+      {
+        "name": "shredded mozzarella cheese",
+        "measurementValue": "4",
+        "measurementType": "cups"
+      },
+      {
+        "name": "eggs, lightly beaten",
+        "measurementValue": "2",
+        "measurementType": null
+      }
+    ],
+    "steps": [
+      "Preheat oven to 375° F.",
+      "Cook lasagna noodles according to package instructions; drain and separate.",
+      "In a large saucepan, combine cooked meat and 1 ½ jars sauce, simmer 5 minutes.",
+      "In a large bowl, combine Ricotta cheese, 3 ½ cups mozzarella cheese, Parmigiano cheese and eggs.",
+      "Grease a 13 x 9 inch baking dish with cooking spray.",
+      "Spread ¾ cup Barilla sauce over the bottom of the baking dish.",
+      "Place 3-4 lasagne sheets on the bottom, slightly overlapping.",
+      "Spread half of the cheese mixture over lasagne and cover with ½ of the meat sauce.",
+      "Repeat for 2 more layers.",
+      "Cover last layer with remaining lasagne sheets and remaining Barilla sauce.",
+      "Sprinkle with remaining mozzarella cheese.",
+      "Cover with foil and bake for 30 minutes. Remove foil and bake additional 10 minutes. Let stand 10 minutes before serving."
+    ],
+    "image": "https://hips.hearstapps.com/vidthumb/images/180820-bookazine-delish-01280-1536610916.jpg?crop=1xw:1xh;center,top&resize=768:*"
+  },
+  {
+    "author": "Caio",
+    "name": "Chocolate Chip Cookies",
+    "cuisine": "Baking",
+    "course": "dessert",
+    "cooktime": "120 minutes",
+    "ingredients": [
+      {
+        "name": "flour",
+        "measurementValue": "2 and 1/4",
+        "measurementType": "cups"
+      },
+      {
+        "name": "baking soda",
+        "measurementValue": "1",
+        "measurementType": "tsp"
+      },
+      {
+        "name": "salt",
+        "measurementValue": "1",
+        "measurementType": "tsp"
+      },
+      {
+        "name": "vanilla extract",
+        "measurementValue": "1",
+        "measurementType": "tsp"
+      },
+      {
+        "name": "butter, softened",
+        "measurementValue": "1",
+        "measurementType": "cup"
+      },
+      {
+        "name": "granulated sugar",
+        "measurementValue": "3/4",
+        "measurementType": "cup"
+      },
+      {
+        "name": "packed brown sugar",
+        "measurementValue": "3/4",
+        "measurementType": "cup"
+      },
+      {
+        "name": "large eggs",
+        "measurementValue": "2",
+        "measurementType": null
+      },
+      {
+        "name": "chocolate chips",
+        "measurementValue": "2",
+        "measurementType": "cup"
+      }
+    ],
+    "steps": [
+      "preheat to 375",
+      "Combine flour, baking soda and salt in small bowl.",
+      "Beat butter, granulated sugar, brown sugar and vanilla extract in large mixer bowl until creamy.",
+      "Add eggs, one at a time, beating well after each addition.",
+      "Gradually beat in flour mixture. Stir in morsels and nuts.",
+      "Drop by rounded tablespoon onto ungreased baking sheets.",
+      "Bake for 9 to 11 minutes or until golden brown. Cool on baking sheets for 2 minutes; remove to wire racks to cool completely."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/560x315/1477826.jpg"
+  },
+  {
+    "author": "Levani",
+    "name": "Pizza",
+    "cuisine": "Italian",
+    "course": "Entree",
+    "cooktime": "60 minutes",
+    "ingredients": [
+      {
+        "name": "Tomato Paste",
+        "measurementValue": "12",
+        "measurementType": "oz"
+      },
+      {
+        "name": "dried oregano, crushed",
+        "measurementValue": "1",
+        "measurementType": "tsp"
+      },
+      {
+        "name": "dried basil, crushed",
+        "measurementValue": "1",
+        "measurementType": "tsp"
+      },
+      {
+        "name": "garlic powder",
+        "measurementValue": "1",
+        "measurementType": "tsp"
+      },
+      {
+        "name": "onion powder",
+        "measurementValue": "1/2",
+        "measurementType": "tsp"
+      },
+      {
+        "name": "sugar",
+        "measurementValue": "1/2",
+        "measurementType": "tsp"
+      },
+      {
+        "name": "salt",
+        "measurementValue": "2",
+        "measurementType": "tsp"
+      },
+      {
+        "name": "black pepper",
+        "measurementValue": "1/2",
+        "measurementType": "tsp"
+      },
+      {
+        "name": "all purpose flour",
+        "measurementValue": "3 1/4",
+        "measurementType": "cup"
+      },
+      {
+        "name": "FLEISCHMANN'S® Pizza Crust Yeast or RapidRise® Yeast",
+        "measurementValue": "2",
+        "measurementType": "packets"
+      },
+      {
+        "name": "sugar",
+        "measurementValue": "1",
+        "measurementType": "tbsp"
+      },
+      {
+        "name": "very warm water (120 degrees F to 130 degrees F)",
+        "measurementValue": "1 1/3",
+        "measurementType": "cup"
+      },
+      {
+        "name": "oil",
+        "measurementValue": "1/3",
+        "measurementType": "cup"
+      },
+      {
+        "name": "oil",
+        "measurementValue": "1/3",
+        "measurementType": "cup"
+      },
+      {
+        "name": "pepperoni",
+        "measurementValue": "to taste",
+        "measurementType": null
+      },
+      {
+        "name": "sliced mushrooms",
+        "measurementValue": "to taste",
+        "measurementType": null
+      },
+      {
+        "name": "crushed red pepper",
+        "measurementValue": "to taste",
+        "measurementType": null
+      },
+      {
+        "name": "shredded mozzarella cheese",
+        "measurementValue": "1",
+        "measurementType": "cup"
+      }
+    ],
+    "steps": [
+      "For sauce: Combine all sauce ingredients with 1/2 cup water in a medium bowl; set aside for flavors to develop while making crust. Freeze remaining paste .",
+      "For crusts: Combine 2 cups of flour with the dry yeast, sugar and salt. Add the water and oil and mix until well blended (about 1 minute). Gradually add enough remaining flour slowly, until a soft, sticky dough ball is formed",
+      "Knead for about 4 minutes, on a floured surface, until dough is smooth and elastic. Add more flour, if needed. (If using RapidRise(R) Yeast, let dough rest, covered, for 10 minutes.).",
+      "Divide dough in half. Pat each half (with floured hands) into a 12-inch greased pizza pan OR roll dough to fit pans..",
+      "For pizzas: Preheat oven to 425 degrees F. Top crusts with sauce, pepperoni and cheese..",
+      "Bake for 18 to 20 minutes until crusts are browned and cheese is bubbly. For best results, rotate pizza pans between top and bottom oven racks halfway through baking."
+    ],
+    "image": "https://images.media-allrecipes.com/userphotos/720x405/5164659.jpg"
+  },
+  {
+    "author": "Levani",
+    "name": "Khachapuri",
+    "cuisine": "Georgian",
+    "course": "Entree",
+    "cooktime": "35 minutes",
+    "ingredients": [
+      {
+        "name": "warm water",
+        "measurementValue": "2",
+        "measurementType": "cup"
+      },
+      {
+        "name": "active dry yeast",
+        "measurementValue": "1",
+        "measurementType": "tbsp"
+      },
+      {
+        "name": "all purpose flour",
+        "measurementValue": "2.5",
+        "measurementType": "pounds"
+      },
+      {
+        "name": "warm milk",
+        "measurementValue": "1",
+        "measurementType": "cup"
+      },
+      {
+        "name": "oil",
+        "measurementValue": "1.7",
+        "measurementType": "oz"
+      },
+      {
+        "name": "large egg",
+        "measurementValue": "4",
+        "measurementType": null
+      },
+      {
+        "name": "sugar",
+        "measurementValue": "1",
+        "measurementType": "tsp"
+      },
+      {
+        "name": "salt",
+        "measurementValue": "1",
+        "measurementType": "tsp"
+      },
+      {
+        "name": "sulguni cheese",
+        "measurementValue": "7",
+        "measurementType": "oz"
+      },
+      {
+        "name": "butter",
+        "measurementValue": "1",
+        "measurementType": "tbsp"
+      }
+    ],
+    "steps": [
+      "In a small bowl, combine 1 cup/200 mL warm water with yeast and set aside.",
+      "In a large bowl or stand mixer, mix together flour with milk, oil, egg, sugar, salt and yeast-water mixture. Knead by hand or with a dough hook until dough forms a smooth, elastic dough. You may need up to 1 cup/240 mL additional warm water.",
+      "Cover the bowl with greased plastic wrap and let rise in a warm place for 2 hours. Punch down dough and divide into three pieces. Cover with greased plastic wrap and let rest 15 minutes before shaping.",
+      "In a medium bowl, combine the grated cheese, 1 egg, and butter, if using. Separate one egg, retaining the egg yolk and saving the white for another use. Fork blend the egg yolk and set aside. This will be used to glaze the dough later.",
+      "Heat the oven to 400 F. Roll each of the dough balls and form into a boat shape. Place equal portions of cheese filling in the center of each of the 3 dough boats. Fold the sides and ends of the dough as shown in my picture.",
+      "Place the khachapuri on a parchment-lined rimmed baking sheet (to catch any butter or melting cheese) and bake for 12 minutes. Take the khachapuri out of the oven and brush the dough (not the cheese) with reserved beaten egg yolk. Crack the last egg in the center of the cheese. Return to the oven and bake for 3 minutes or until the yolk is still wobbly and the white hasn't totally set.",
+      "Serve immediately with a large pat of butter. The butter and egg are mixed together with a knife and fork and eaten together with little pieces of the bread part of the khachapuri."
+    ],
+    "image": "https://3ner1e34iilsjdn1qohanunu-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/adjaruli_7.jpg"
+  }
+]
