@@ -6,9 +6,9 @@ The Recipe Roledex API is a cloud based database that holds the data generated a
 
 #### GET
 
-- get("/cuisine/:cuisine"
-- get("/course/:course"
-- get("/author/:name"
+- "/cuisine/:cuisine"
+- "/course/:course"
+- "/author/:name"
 
 #### POST
 
