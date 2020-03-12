@@ -1,5 +1,6 @@
 [
   {
+    "likes": 0,
     "author": "Rachel",
     "name": "Lasagna",
     "cuisine": "Italian",
@@ -54,6 +55,7 @@
     "image": "https://hips.hearstapps.com/vidthumb/images/180820-bookazine-delish-01280-1536610916.jpg?crop=1xw:1xh;center,top&resize=768:*"
   },
   {
+    "likes": 0,
     "author": "Caio",
     "name": "Chocolate Chip Cookies",
     "cuisine": "Baking",
@@ -118,6 +120,7 @@
     "image": "https://images.media-allrecipes.com/userphotos/560x315/1477826.jpg"
   },
   {
+    "likes": 0,
     "author": "Levani",
     "name": "Pizza",
     "cuisine": "Italian",
@@ -226,6 +229,7 @@
     "image": "https://images.media-allrecipes.com/userphotos/720x405/5164659.jpg"
   },
   {
+    "likes": 0,
     "author": "Levani",
     "name": "Khachapuri",
     "cuisine": "Georgian",
